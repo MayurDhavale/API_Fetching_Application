@@ -21,7 +21,7 @@ This Flutter application fetches posts from a public API and displays them using
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/yourusername/flutter_api_fetch.git
+git clone https://github.com/MayurDhavale/API_Fetching_Application.git
 cd flutter_api_fetch
 
 ### 2️⃣ Install Dependencies

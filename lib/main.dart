@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'screens/post_list_screen.dart';
 import 'providers/post_provider.dart';
-import 'providers/theme_provider.dart';  // Import ThemeProvider
+import 'providers/theme_provider.dart';  
 import 'theme/app_theme.dart';
 
 void main() {
